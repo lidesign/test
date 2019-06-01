@@ -1,0 +1,17 @@
+{
+  "name": "illvart.github.io",
+  "description": "My Personal Website.",
+  "version": "0.0.1",
+  "author": "MNF <illvart.email@gmail.com>",
+  "main": "n/a",
+  "license": "MIT",
+  "homepage": "https://github.com/illvart/illvart.github.io",
+  "private": true,
+  "repository": "git+https://github.com/illvart/illvart.github.io.git",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "local": "http-server -p 6661"
+  }
+}
